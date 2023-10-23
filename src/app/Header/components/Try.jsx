@@ -2,7 +2,7 @@ import React from "react";
 
 function Try() {
   return (
-    <div className="m-16 h-1/2">
+    <div className="m-16 h-1/2 mt-48 md:mt-16">
       <h2 className="text-[#41056e] text-2xl font-bold">Try Our Health menu</h2>
 
       <div className="flex md:flex-row flex-col justify-around items-center">
